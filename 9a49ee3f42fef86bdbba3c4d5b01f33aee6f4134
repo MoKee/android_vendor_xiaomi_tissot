@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1558440118 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_vendor_xiaomi_tissot\nnonce 1558440118-D422FEDDA0AE26006212A65B1FA2C6E7590F088D\n\n0000000000000000000000000000000000000000 9a49ee3f42fef86bdbba3c4d5b01f33aee6f4134 refs/for/mkp\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEE/Y8fKHw84zhHjhP78iL05i7NJTEFAlzj6LYACgkQ8iL05i7N\nJTFTFQf/UabNzBpe4Gmj9xt2blvt/FXwV9HpjXUPTirmwpicq70UCtvfWCsezxII\nw7g2Ih5/s9mDzqjiki4mmwxmipAO4WpHttVYw6MBc/ZvXWdnarDneyPLK3dI02pM\nIkmtfOc2M7J+ISR+qlfFnUrCN3nk5XlmEXPCw407JQwJZd3YWur7bwRDpfdfVeN/\nexLe09BjmxYR2us6B04QIjitod1pLWVVU+qbLRpxPX5bzeD1R+9ZUeOYYUzDovXW\nz7k6b76/zs9pz42BsHJtGQvGS8MCXlHpLzIfASq6+T8p5cxnHBxSueiqnwIxNTol\nD1DbivUHT6hbEhXCgTSQYBd4/xbjWA\u003d\u003d\n\u003dtLIN\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
